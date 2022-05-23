@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# samrt contract for Swap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+ smart contract that swap [ETH => ERC20 Token | ERC20 Token => ETH | ERC20 Token => ERC20 Token] with the help of the Uniswap V2 library
 
-Try running some of the following tasks:
+ # link 
+ 
+ [rinkeby](https://rinkeby.etherscan.io/address/0x751A3F987DD8b08FB85dfFF163ab9C6982CE1790#code)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
